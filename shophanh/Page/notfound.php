@@ -1,0 +1,1 @@
+<h2 class='alert alert-danger'> Lỗi 404! <br> Có gì đó sai sai. Xin mời bạn thử lại! </h2>
